@@ -90,6 +90,14 @@ function trainerClear() {
   document.getElementById("trainerLog").innerHTML = "";
 }
 
+function loadQuiz(path) {
+  fetch(path)
+    .then(r => r.text())
+    .then(t => {
+      document.getElementById("quizContainer5").innerHTML = t;
+    });
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   const data = JSON.parse(localStorage.getItem("trainer_history") || "[]");
   data.forEach(msg => trainerAdd(msg.text, msg.from, false));
