@@ -1,0 +1,313 @@
+<section id="use5_2023">
+  <div class="card">
+    <h2>🏅 DARYN OLYMPIAD — Grade 5 (2023–2024)</h2>
+
+    <!-- 🏫 District Tour -->
+    <h3>🏫 District Tour — Level One (1 point each)</h3>
+    <form id="quiz_use5_2023_district">
+      <p>1. “Where ______ you from?”</p>
+      <label><input type="radio" name="q1" value="correct">are</label><br>
+      <label><input type="radio" name="q1" value="wrong">is</label><br>
+
+      <p>2. There ______ two pens on the desk.</p>
+      <label><input type="radio" name="q2" value="correct">are</label><br>
+
+      <p>3. She ______ breakfast every morning.</p>
+      <label><input type="radio" name="q3" value="correct">has</label><br>
+
+      <p>4. They ______ to school by bus yesterday.</p>
+      <label><input type="radio" name="q4" value="correct">went</label><br>
+
+      <p>5. “Can you swim?” – “Yes, I ______.”</p>
+      <label><input type="radio" name="q5" value="correct">can</label><br>
+
+      <p>6. My brother ______ tennis every Sunday.</p>
+      <label><input type="radio" name="q6" value="correct">plays</label><br>
+
+      <p>7. I like ______ music.</p>
+      <label><input type="radio" name="q7" value="correct">listening to</label><br>
+
+      <p>8. There isn’t ______ sugar in the cup.</p>
+      <label><input type="radio" name="q8" value="correct">any</label><br>
+
+      <p>9. My parents ______ watching TV now.</p>
+      <label><input type="radio" name="q9" value="correct">are</label><br>
+
+      <p>10. She is ______ than her sister.</p>
+      <label><input type="radio" name="q10" value="correct">younger</label><br>
+
+      <p>11. We ______ our homework yesterday evening.</p>
+      <label><input type="radio" name="q11" value="correct">did</label><br>
+
+      <p>12. What time ______ you go to school?</p>
+      <label><input type="radio" name="q12" value="correct">do</label><br>
+
+      <p>13. He can play the guitar very ______.</p>
+      <label><input type="radio" name="q13" value="correct">well</label><br>
+
+      <p>14. My favourite subject is ______.</p>
+      <label><input type="radio" name="q14" value="correct">English</label><br>
+
+      <p>15. ______ you like apples?</p>
+      <label><input type="radio" name="q15" value="correct">Do</label><br>
+
+      <p>16. The cat is ______ the table.</p>
+      <label><input type="radio" name="q16" value="correct">under</label><br>
+
+      <p>17. How old ______ your sister?</p>
+      <label><input type="radio" name="q17" value="correct">is</label><br>
+
+      <p>18. I ______ a new bag last week.</p>
+      <label><input type="radio" name="q18" value="correct">bought</label><br>
+
+      <p>19. They ______ football every day.</p>
+      <label><input type="radio" name="q19" value="correct">play</label><br>
+
+      <p>20. I ______ go to bed at 10 o’clock.</p>
+      <label><input type="radio" name="q20" value="correct">usually</label><br>
+
+      <p>21. My mother ______ to work by car.</p>
+      <label><input type="radio" name="q21" value="correct">goes</label><br>
+
+      <p>22. He ______ got two sisters.</p>
+      <label><input type="radio" name="q22" value="correct">has</label><br>
+
+      <p>23. We live ______ Astana.</p>
+      <label><input type="radio" name="q23" value="correct">in</label><br>
+
+      <p>24. There ______ a book on the table.</p>
+      <label><input type="radio" name="q24" value="correct">is</label><br>
+
+      <p>25. What colour ______ your bag?</p>
+      <label><input type="radio" name="q25" value="correct">is</label><br>
+
+      <p>26. He ______ television every day.</p>
+      <label><input type="radio" name="q26" value="correct">watches</label><br>
+
+      <p>27. She is ______ in the room.</p>
+      <label><input type="radio" name="q27" value="correct">the tallest</label><br>
+
+      <p>28. They ______ English at the moment.</p>
+      <label><input type="radio" name="q28" value="correct">are studying</label><br>
+
+      <p>29. What ______ your favourite food?</p>
+      <label><input type="radio" name="q29" value="correct">is</label><br>
+
+      <p>30. He can’t play football, ______ he?</p>
+      <label><input type="radio" name="q30" value="correct">can</label><br>
+
+      <button type="button" onclick="checkAnswers('Use of English 5 District', 2023)">Проверить ответы</button>
+    </form>
+
+    <hr>
+
+    <!-- 🏙 Regional Tour -->
+    [сюда вставь вторую часть, которую я тебе выдала ранее — вопросы 31–60]
+
+    <hr>
+
+    <!-- 🏛 Republican Tour -->
+    [сюда вставь третью часть — вопросы 61–90]
+
+  </div>
+</section>
+  <h3>Regional Tour — Grade 5 (2023–2024)</h3>
+<p><b>Level Two – 2 points for each correct answer</b></p>
+
+<form id="quiz_use5_2023_regional">
+
+<p>31. I am fond ______ playing football.</p>
+<label><input type="radio" name="q31" value="correct">of</label><br>
+<label><input type="radio" name="q31" value="wrong">in</label><br>
+<label><input type="radio" name="q31" value="wrong">at</label><br>
+
+<p>32. My father ______ TV in the evenings.</p>
+<label><input type="radio" name="q32" value="correct">watches</label><br>
+<label><input type="radio" name="q32" value="wrong">watch</label><br>
+
+<p>33. The opposite of “young” is ______.</p>
+<label><input type="radio" name="q33" value="correct">old</label><br>
+
+<p>34. Choose the correct sentence:</p>
+<label><input type="radio" name="q34" value="correct">There are some apples on the table.</label><br>
+
+<p>35. “How many books are there?” – “There are ______.”</p>
+<label><input type="radio" name="q35" value="correct">five</label><br>
+
+<p>36. I always get up ______ 7 o’clock.</p>
+<label><input type="radio" name="q36" value="correct">at</label><br>
+
+<p>37. She is interested ______ music.</p>
+<label><input type="radio" name="q37" value="correct">in</label><br>
+
+<p>38. I have breakfast ______ the morning.</p>
+<label><input type="radio" name="q38" value="correct">in</label><br>
+
+<p>39. “What is your favourite sport?” – “______.”</p>
+<label><input type="radio" name="q39" value="correct">Football</label><br>
+
+<p>40. We go to school ______ Monday to Friday.</p>
+<label><input type="radio" name="q40" value="correct">from</label><br>
+
+<p>41. A cow gives us ______.</p>
+<label><input type="radio" name="q41" value="correct">milk</label><br>
+
+<p>42. My father is ______ engineer.</p>
+<label><input type="radio" name="q42" value="correct">an</label><br>
+
+<p>43. There is a map ______ the wall.</p>
+<label><input type="radio" name="q43" value="correct">on</label><br>
+
+<p>44. I have got a dog. ______ name is Rex.</p>
+<label><input type="radio" name="q44" value="correct">Its</label><br>
+
+<p>45. My best friend ______ football every day.</p>
+<label><input type="radio" name="q45" value="correct">plays</label><br>
+
+<p>46. I ______ my homework yesterday.</p>
+<label><input type="radio" name="q46" value="correct">did</label><br>
+
+<p>47. I can ______ English and Russian.</p>
+<label><input type="radio" name="q47" value="correct">speak</label><br>
+
+<p>48. What colour ______ your shoes?</p>
+<label><input type="radio" name="q48" value="correct">are</label><br>
+
+<p>49. He usually ______ breakfast at 7 o’clock.</p>
+<label><input type="radio" name="q49" value="correct">has</label><br>
+
+<p>50. The cat is ______ the chair.</p>
+<label><input type="radio" name="q50" value="correct">under</label><br>
+
+<p>51. “Can I help you?” – “Yes, please. I’d like ______ apples.”</p>
+<label><input type="radio" name="q51" value="correct">some</label><br>
+
+<p>52. There aren’t ______ eggs in the fridge.</p>
+<label><input type="radio" name="q52" value="correct">any</label><br>
+
+<p>53. She is taller ______ her sister.</p>
+<label><input type="radio" name="q53" value="correct">than</label><br>
+
+<p>54. “What is the opposite of ‘big’?”</p>
+<label><input type="radio" name="q54" value="correct">small</label><br>
+
+<p>55. I’m afraid, there isn’t ______ milk left.</p>
+<label><input type="radio" name="q55" value="correct">any</label><br>
+
+<p>56. My mother ______ dinner now.</p>
+<label><input type="radio" name="q56" value="correct">is cooking</label><br>
+
+<p>57. The capital of Kazakhstan is ______.</p>
+<label><input type="radio" name="q57" value="correct">Astana</label><br>
+
+<p>58. They usually ______ TV in the evening.</p>
+<label><input type="radio" name="q58" value="correct">watch</label><br>
+
+<p>59. Choose the correct question: “______ you like pizza?”</p>
+<label><input type="radio" name="q59" value="correct">Do</label><br>
+
+<p>60. There are ______ pens on the table.</p>
+<label><input type="radio" name="q60" value="correct">some</label><br>
+
+<button type="button" onclick="checkAnswers('Use of English 5 Regional', 2023)">Проверить ответы</button>
+</form>
+  <h3>Republican Tour — Grade 5 (2023–2024)</h3>
+<p><b>Level Three – 3 points for each correct answer</b></p>
+
+<form id="quiz_use5_2023_republican">
+
+<p>61. What’s that woman?</p>
+<label><input type="radio" name="q61" value="wrong">It’s Mary.</label><br>
+<label><input type="radio" name="q61" value="wrong">Yes, it’s a woman.</label><br>
+<label><input type="radio" name="q61" value="correct">She’s a doctor.</label><br>
+
+<p>62. Kate lives in Paris, ____</p>
+<label><input type="radio" name="q62" value="correct">doesn’t she?</label><br>
+<label><input type="radio" name="q62" value="wrong">isn’t she?</label><br>
+
+<p>63. The room is large but _____ windows are not large.</p>
+<label><input type="radio" name="q63" value="correct">its</label><br>
+
+<p>64. Kanat had ____ cheeseburger for lunch. _____ cheeseburger was tasty.</p>
+<label><input type="radio" name="q64" value="correct">a; the</label><br>
+
+<p>65. “It’s my ball.” – “No, it’s ______.”</p>
+<label><input type="radio" name="q65" value="correct">mine</label><br>
+
+<p>66. My aunt’s geese ______ nice and white.</p>
+<label><input type="radio" name="q66" value="correct">are</label><br>
+
+<p>67. Do you speak English ______?</p>
+<label><input type="radio" name="q67" value="correct">well</label><br>
+
+<p>68. How much sugar is there?</p>
+<label><input type="radio" name="q68" value="correct">There’s a little sugar.</label><br>
+
+<p>69. We didn’t do much homework ______.</p>
+<label><input type="radio" name="q69" value="correct">last week</label><br>
+
+<p>70. Whose is that bike?</p>
+<label><input type="radio" name="q70" value="correct">It’s Tom’s</label><br>
+
+<p>71. “Excuse me, ______ you tell me the way to the library?”</p>
+<label><input type="radio" name="q71" value="correct">Could</label><br>
+
+<p>72. Find the synonym: “to arrive”</p>
+<label><input type="radio" name="q72" value="correct">to come</label><br>
+
+<p>73. We don’t need to buy _____ milk.</p>
+<label><input type="radio" name="q73" value="correct">any</label><br>
+
+<p>74. Look at _____ cows in the field over there.</p>
+<label><input type="radio" name="q74" value="correct">those</label><br>
+
+<p>75. My brother is older _____ me.</p>
+<label><input type="radio" name="q75" value="correct">than</label><br>
+
+<p>76. They are watching TV now. – They ______ TV every evening.</p>
+<label><input type="radio" name="q76" value="correct">watch</label><br>
+
+<p>77. Choose the correct question: “______ you like coffee?”</p>
+<label><input type="radio" name="q77" value="correct">Do</label><br>
+
+<p>78. There aren’t ______ oranges on the table.</p>
+<label><input type="radio" name="q78" value="correct">any</label><br>
+
+<p>79. He can ______ a bicycle.</p>
+<label><input type="radio" name="q79" value="correct">ride</label><br>
+
+<p>80. We go to school ______ Monday to Friday.</p>
+<label><input type="radio" name="q80" value="correct">from</label><br>
+
+<p>81. The cat is ______ the chair.</p>
+<label><input type="radio" name="q81" value="correct">under</label><br>
+
+<p>82. I’m interested ______ English.</p>
+<label><input type="radio" name="q82" value="correct">in</label><br>
+
+<p>83. Choose the correct form: “There ______ some milk in the cup.”</p>
+<label><input type="radio" name="q83" value="correct">is</label><br>
+
+<p>84. My father ______ TV every evening.</p>
+<label><input type="radio" name="q84" value="correct">watches</label><br>
+
+<p>85. There are ______ pencils on the desk.</p>
+<label><input type="radio" name="q85" value="correct">some</label><br>
+
+<p>86. “How many apples are there?” – “There are ______.”</p>
+<label><input type="radio" name="q86" value="correct">five</label><br>
+
+<p>87. The capital of Great Britain is ______.</p>
+<label><input type="radio" name="q87" value="correct">London</label><br>
+
+<p>88. I ______ my homework yesterday.</p>
+<label><input type="radio" name="q88" value="correct">did</label><br>
+
+<p>89. He ______ to school every day.</p>
+<label><input type="radio" name="q89" value="correct">goes</label><br>
+
+<p>90. Choose the correct sentence:</p>
+<label><input type="radio" name="q90" value="correct">There is a book on the table.</label><br>
+
+<button type="button" onclick="checkAnswers('Use of English 5 Republican', 2023)">Проверить ответы</button>
+</form>
