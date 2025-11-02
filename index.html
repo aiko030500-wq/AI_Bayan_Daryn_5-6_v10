@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Bayan Darýn Olympiad Trainer — 5–6 Grades Full Edition 2025</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1 class="main-title">AI Bayan Darýn Olympiad Trainer — 5–6 Grades Full Edition 2025</h1>
+    <div class="nav">
+      <button onclick="show('home')">🏠 Меню</button>
+      <button onclick="goBack()">⬅️ Назад</button>
+      <button onclick="goForward()">➡️ Вперёд</button>
+      <span class="stars">⭐ <span id="starCount">0</span></span>
+    </div>
+  </header>
+
+  <section id="home" class="section active">
+    <div class="card">
+      <h2>Главное меню</h2>
+      <div class="menu">
+        <button onclick="show('listening')">🎧 Listening</button>
+        <button onclick="show('reading')">📖 Reading</button>
+        <button onclick="show('use')">🧩 Use of English</button>
+        <button onclick="show('writing')">✍️ Writing</button>
+        <button onclick="show('trainer')">🤖 AI Bayan Trainer</button>
+        <button onclick="show('journal')">📊 Журнал</button>
+      </div>
+    </div>
+  </section>
+
+  <section id="listening" class="section">
+    <div class="card">
+      <h2>Listening</h2>
+      <audio controls src="audio/listening_2025.mp3"></audio>
+    </div>
+  </section>
+
+  <section id="reading" class="section">
+    <div class="card">
+      <h2>Reading</h2>
+      <div id="readingContent">Выберите год и начните чтение!</div>
+    </div>
+  </section>
+
+  <section id="use" class="section">
+    <div class="card">
+      <h2>Use of English</h2>
+      <p>Здесь будут грамматические задания Дарын 2020–2025 годов.</p>
+    </div>
+  </section>
+
+  <section id="writing" class="section">
+    <div class="card">
+      <h2>Writing</h2>
+      <p>Пиши свои эссе и письма здесь!</p>
+    </div>
+  </section>
+
+  <section id="trainer" class="section">
+    <div class="card">
+      <h2>🤖 AI Bayan Trainer</h2>
+      <div id="trainerLog" class="trainer-log"></div>
+      <div class="trainer-row">
+        <input id="trainerInput" type="text" placeholder="Введите сообщение..." class="trainer-input">
+        <button onclick="trainerSend()" class="trainer-send">Отправить</button>
+      </div>
+      <button onclick="trainerClear()" class="trainer-clear">🗑️ Очистить чат</button>
+    </div>
+  </section>
+
+  <section id="journal" class="section">
+    <div class="card">
+      <h2>Журнал</h2>
+      <div id="journalContent">Здесь появятся результаты учеников ⭐</div>
+    </div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
